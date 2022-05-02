@@ -1,4 +1,4 @@
-# Where dropWhile() and takeWhile() method of Java Stream can be useful
-Everyone uses filter(), but have you ever used complementary methods dropWhile() and takeWhile()? They can simplify text extraction from formatted documents
+# Automatically create and fill pages in Confluence
+Import contents into Confluence through the user interface using a Puppeteer-controlled browser
 
-Sample code for my very exciting post https://marian-caikovski.medium.com/where-dropwhile-and-takewhile-method-of-java-stream-can-be-useful-d951499969f1 about use cases and modern features of Java streams
+Sample code for my very exciting post https://marian-caikovski.medium.com/automatically-create-and-fill-pages-in-confluence-22fe0cb2359c about automatic creation of pages with tables in Confluence
